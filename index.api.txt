@@ -1,0 +1,4 @@
+https://mashape-community-urban-dictionary.p.rapidapi.com/define?term=wat
+https://mashape-community-urban-dictionary.p.rapidapi.com/define?term=sup
+https://mashape-community-urban-dictionary.p.rapidapi.com/define?term=ayy
+https://mashape-community-urban-dictionary.p.rapidapi.com/define?term=swerve
